@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./todoListBuild/static/css/main.2b42f45b.css",
-    "main.js": "./todoListBuild/static/js/main.6c8f7929.js",
-    "static/js/787.14e4bc02.chunk.js": "./todoListBuild/static/js/787.14e4bc02.chunk.js",
-    "static/media/pngegg.png": "./todoListBuild/static/media/pngegg.28e1f003b4ef34868ec3.png",
-    "static/media/free-icon-star-4211296.png": "./todoListBuild/static/media/free-icon-star-4211296.6da9dcfb9ea029d5fcec.png",
-    "index.html": "./todoListBuild/index.html",
-    "main.2b42f45b.css.map": "./todoListBuild/static/css/main.2b42f45b.css.map",
-    "main.6c8f7929.js.map": "./todoListBuild/static/js/main.6c8f7929.js.map",
-    "787.14e4bc02.chunk.js.map": "./todoListBuild/static/js/787.14e4bc02.chunk.js.map"
+    "main.css": "./static/css/main.2b42f45b.css",
+    "main.js": "./static/js/main.970b4d62.js",
+    "static/js/787.14e4bc02.chunk.js": "./static/js/787.14e4bc02.chunk.js",
+    "static/media/pngegg.png": "./static/media/pngegg.28e1f003b4ef34868ec3.png",
+    "static/media/free-icon-star-4211296.png": "./static/media/free-icon-star-4211296.6da9dcfb9ea029d5fcec.png",
+    "index.html": "./index.html",
+    "main.2b42f45b.css.map": "./static/css/main.2b42f45b.css.map",
+    "main.970b4d62.js.map": "./static/js/main.970b4d62.js.map",
+    "787.14e4bc02.chunk.js.map": "./static/js/787.14e4bc02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b42f45b.css",
-    "static/js/main.6c8f7929.js"
+    "static/js/main.970b4d62.js"
   ]
 }
